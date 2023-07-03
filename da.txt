@@ -2,3 +2,7 @@ hund
 hus
 mad
 kat
+fugl
+fisk
+kasse
+ur
